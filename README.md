@@ -1,4 +1,3 @@
-[api-documentation.md](https://github.com/user-attachments/files/23781385/api-documentation.md)
 # Product Management API - Complete Documentation
 
 ## 📋 Table of Contents
